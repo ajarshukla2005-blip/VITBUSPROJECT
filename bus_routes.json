@@ -1,0 +1,48 @@
+[
+  {
+    "route_id": "R1",
+    "start": "City Center",
+    "end": "College Main Gate",
+    "stops": [
+      {
+        "name": "City Center",
+        "time": "08:00"
+      },
+      {
+        "name": "Market Square",
+        "time": "08:15"
+      },
+      {
+        "name": "Tech Park",
+        "time": "08:35"
+      },
+      {
+        "name": "College Main Gate",
+        "time": "09:00"
+      }
+    ]
+  },
+  {
+    "route_id": "R2",
+    "start": "Railway Station",
+    "end": "College Main Gate",
+    "stops": [
+      {
+        "name": "Railway Station",
+        "time": "08:10"
+      },
+      {
+        "name": "Bus Stand",
+        "time": "08:25"
+      },
+      {
+        "name": "Old Bridge",
+        "time": "08:45"
+      },
+      {
+        "name": "College Main Gate",
+        "time": "09:05"
+      }
+    ]
+  }
+]
